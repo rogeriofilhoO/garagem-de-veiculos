@@ -40,7 +40,7 @@ Essas são as dependências para o funcionamento correto do programa:
 
 #### Express
 
-    1. Abra o **terminal**
+   1. Abra o **terminal**
    
       - Windows
       ```
