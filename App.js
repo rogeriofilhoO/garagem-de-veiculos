@@ -15,7 +15,7 @@ const hostname = '127.0.0.1';
 
 // Configuração da rota da raiz
 app.get('/', (req, res) => {
-    res.send("Você acesou a rota raíz.");
+    res.send("Você acessou a rota raíz.");
 });
 
 /* Configurando as rotas (get, put, delete, post) tanto do 
